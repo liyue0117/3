@@ -1,0 +1,10 @@
+
+<view class="container">
+  <image src="/images/hg.jpg"></image>
+  <text>六十秒后开始发牌: </text>
+  <text> {{second}}</text>
+ <text>警告:未滿18岁者請勿進入本站!</text>
+ <text>注意自我保护,适度娱乐</text>
+ <text>合理安排时间,享受健康生活</text>
+ <text>@康氏娱乐</text>
+</view>

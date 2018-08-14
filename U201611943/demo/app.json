@@ -1,0 +1,22 @@
+{
+ "pages":["pages/djs/djs","pages/v/v"
+ ],
+ "tabBar":{
+   "list":[
+     {
+       "text": "发牌",
+      "pagePath": "pages/djs/djs",
+      "iconPath": "images/1.png",
+      "selectedIconPath": "images/4.png"
+     },
+     {
+       "text": "公司简介",
+      "pagePath": "pages/v/v",
+      "iconPath": "images/2.png",
+      "selectedIconPath": "images/3.png"
+     }
+   ],
+   "color":"#000",
+   "selectedColor":"#00f"
+ }
+}
