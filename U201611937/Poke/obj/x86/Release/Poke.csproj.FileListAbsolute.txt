@@ -1,0 +1,9 @@
+/Users/liyue/Downloads/poke/Poke/bin/Release/Poke.exe
+/Users/liyue/Downloads/poke/Poke/bin/Release/Poke.pdb
+/Users/liyue/Downloads/poke/Poke/obj/x86/Release/Poke.CardControl.resources
+/Users/liyue/Downloads/poke/Poke/obj/x86/Release/Poke.Form1.resources
+/Users/liyue/Downloads/poke/Poke/obj/x86/Release/Poke.Properties.Resources.resources
+/Users/liyue/Downloads/poke/Poke/obj/x86/Release/Poke.csproj.GenerateResource.cache
+/Users/liyue/Downloads/poke/Poke/obj/x86/Release/Poke.csproj.CoreCompileInputs.cache
+/Users/liyue/Downloads/poke/Poke/obj/x86/Release/Poke.exe
+/Users/liyue/Downloads/poke/Poke/obj/x86/Release/Poke.pdb
