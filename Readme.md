@@ -264,7 +264,7 @@ var intval=setInterval("refresh();",100);
 
 ## 七、效果展示
 
-![snake](U201611944\snake.png)
+![snake](U201611944/snake.png)
 ***
 # 微信小程序初尝试
 ## 程序介绍
