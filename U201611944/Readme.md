@@ -203,5 +203,5 @@ var intval=setInterval("refresh();",100);
 
 ## 七、效果展示
 
-![snake](snake.PNG)
+![snake](snake.png)
 
