@@ -4,7 +4,7 @@
 ## 如何运行
 运行Poke.sln即可。
 ## 运行结果
-！[成功]（屏幕快照.png)
+！[成功]（屏幕快照.PNG)
 ## 代码
 ```using System;
 using System.Collections.Generic;
