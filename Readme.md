@@ -6,7 +6,7 @@
 ## 如何运行
 双击navigation.html
 ## 示意图
-![图片丢失](image/navigation.png "运行结果")
+![图片丢失](U201513807/image/navigation.png "运行结果")
 ## 代码
 
 ```JavaScript
@@ -264,7 +264,7 @@ var intval=setInterval("refresh();",100);
 
 ## 七、效果展示
 
-![snake](C:\Users\zsb\Desktop\新建文件夹\3\U201611944\snake.png)
+![snake](U201611944\snake.png)
 ***
 # 微信小程序初尝试
 ## 程序介绍
@@ -387,8 +387,8 @@ Page({
 ```
 *ps:其它相似代码未列出。*
 ## 项目图示
-![在线发牌](1.png "详情见图片")
-![公司简介](2.png "详情见图片")
+![在线发牌](U201611943/1.png "详情见图片")
+![公司简介](U201611943/2.png "详情见图片")
 ## 参考资料
 主要参考老师提供的[视频](https://www.bilibili.com/video/av25037513/?p=2)资料。
 
@@ -404,7 +404,7 @@ Page({
 ## 如何运行
 运行Poke.sln即可。
 ## 运行结果
-！[成功](desktop／U201611937/屏幕快照.png)
+！[成功](U201611937/屏幕快照.png)
 ***
 # **周兆伟的demo**  
 ## *1.Project Title*  
@@ -555,7 +555,7 @@ void display()
 ```
 ## *5.Result*  
 输入一组数独进行测试结果如下：  
-![结果展示](结果.png "某次测试结果")  
+![结果展示](U201611941/结果.png "某次测试结果")  
 由图可知程序运行良好。  
 ## *6.Contributing*  
 华中科技大学电气1601周兆伟  
