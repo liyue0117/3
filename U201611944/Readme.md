@@ -203,5 +203,5 @@ var intval=setInterval("refresh();",100);
 
 ## 七、效果展示
 
-![snake](C:\Users\zsb\Desktop\新建文件夹\3\U201611944\snake.png)
+![snake](snake.PNG)
 
