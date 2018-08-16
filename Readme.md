@@ -404,7 +404,7 @@ Page({
 ## 如何运行
 运行Poke.sln即可。
 ## 运行结果
-！[成功]（屏幕快照.PNG)
+！[成功]（屏幕快照.png)
 ## 代码
 ```using System;
 using System.Collections.Generic;
@@ -688,7 +688,9 @@ namespace Poke
             Application.Run(new Form1());
         }
     }
-}```
+}
+```
+
 ***
 # **周兆伟的demo**  
 ## *1.Project Title*  
